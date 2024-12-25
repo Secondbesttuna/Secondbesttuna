@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tunayilmaz004@gmail.com
 - 😄 Pronouns: LMAO
-- ⚡ Fun fact: I LOVE MOVİES
+- ⚡ Fun fact: I love movies
 
 <!---
 Secondbesttuna/Secondbesttuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
