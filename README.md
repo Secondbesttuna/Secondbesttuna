@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Secondbesttuna
-- 👀 I’m interested //TO DO LATER
-- 🌱 I’m currently learning java, verilog, c 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tunayilmaz004@gmail.com
-- 😄 Pronouns: LMAO
-- ⚡ Fun fact: I love movies
+Merhaba, ben Tuna Yılmaz 👋
+Bilgisayar Mühendisliği 4. sınıf öğrencisiyim (TOBB ETÜ).
+Şu an ne yapıyorum?
 
-<!---
-Secondbesttuna/Secondbesttuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bilkent Cyberpark'ta yazılım stajımı sürdürüyorum
+Makine öğrenmesi üzerine akademik bir çalışma yürütüyorum
+
+Kullandığım teknolojiler
+Web: React, JavaScript, HTML/CSS
+Backend & Genel: Java, Python, FastAPI
+Araçlar: Git, Docker, Jira, Prometheus, Grafana
+Diğer: C, Verilog, Assembly (akademik düzey)
+İletişim
+
+📧 tunayilmaz004@gmail.com
